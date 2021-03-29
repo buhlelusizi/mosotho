@@ -277,4 +277,10 @@ nav{
     transform: scale(1);
     transition: all .25s;
   }
+
+@media screen and (max-width: 600px) {
+    .banner h1,p {
+      font-size: 4rem;
+    }
+  }
   
