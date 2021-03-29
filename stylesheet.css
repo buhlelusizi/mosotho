@@ -279,8 +279,10 @@ nav{
   }
 
 @media screen and (max-width: 600px) {
-    .banner h1,p {
+    .banner h1 {
       font-size: 4rem;
     }
+    .banner p{
+        font-size: 1rem;
+    }
   }
-  
