@@ -299,11 +299,16 @@ nav{
     text-shadow:0.3rem .5rem black ;
    
   }
-  @media screen and (max-width: 600px) {
+ @media screen and (max-width: 600px) {
     .banner h1 {
       font-size: 4rem;
     }
     .banner p{
         font-size: 1rem;
     }
+    .menu li a{
+        padding: 9px 13px;
+        font-size: 11px; 
+        
+       }
   }
